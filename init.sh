@@ -1,6 +1,6 @@
 # créer le venv si absent
 if [ ! -d ".venv" ]; then
-  python -m venv .venv
+  python3 -m venv .venv
 fi
 
 # activer le venv
@@ -14,7 +14,7 @@ fi
 
 
 # deps
-python -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 
 
 echo "OK: env .venv'"
