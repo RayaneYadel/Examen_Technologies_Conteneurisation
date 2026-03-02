@@ -3,9 +3,9 @@
 ## Projet : réduction de dimension (**PCA / TruncatedSVD / UMAP**) + comparaison via la métrique **trustworthiness** + Utilisation de **Docker**.
 
 ## Membres du groupes:
-Rayane YADEL
-Louis VANDAME
-Othman ASLOUN
+Rayane YADEL /
+Louis VANDAME /
+Othman ASLOUN /
 
 ---
 
