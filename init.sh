@@ -16,5 +16,7 @@ fi
 # deps
 python3 -m pip install -r requirements.txt
 
+python3 -m pip install -U ipykernel
+python3 -m ipykernel install --user --name venv --display-name "venv"
 
 echo "OK: env .venv'"
